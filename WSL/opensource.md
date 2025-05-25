@@ -17,7 +17,7 @@ Learn what this means, how to download WSL, build from source code, and overview
 
 WSL is made of a set of distribution components. Some run in Windows, and some run inside the WSL 2 virtual machine.
 
-:::image type="content" source="./media/wsl-architecture.png" alt-text="Overview diagram of WSL architecture.":::
+![Overview diagram of WSL architecture.](./media/wsl-architecture.png)
 
 WSL’s code can be broken up into these main areas:
 
